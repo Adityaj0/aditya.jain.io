@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: gray; /* Set background color to gray */
 }
 
 html {
@@ -419,4 +420,3 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
-
